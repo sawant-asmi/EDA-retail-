@@ -1,10 +1,10 @@
 # EXPLORATORY-DATA-ANALYSIS---RETAIL-TASK-3
 Perform ‘Exploratory Data Analysis’ on dataset ‘SampleSuperstore’
 
-● As a business manager, try to find out the weak areas where you can work to make more profit.
-● What all business problems you can derive by exploring the data?
-● You can choose any of the tool of your choice (Python/R/Tableau/PowerBI/Excel/SAP/SAS)
-● Dataset: https://bit.ly/3i4rbWl
+ As a business manager, try to find out the weak areas where you can work to make more profit.
+ What all business problems you can derive by exploring the data?
+ You can choose any of the tool of your choice (Python/R/Tableau/PowerBI/Excel/SAP/SAS)
+ Dataset: https://bit.ly/3i4rbWl
 
 Here, I have successfully installed the parameters and constructed an analytical model for a Supermarket datasheet provided by the company.
 
